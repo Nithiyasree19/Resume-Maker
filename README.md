@@ -1,4 +1,4 @@
-# Resume Maker Workflow using LangChain
+# Resume Maker
 
 ## Overview
 
