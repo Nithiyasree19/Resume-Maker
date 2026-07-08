@@ -1,0 +1,27 @@
+{
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "9876543210",
+    "education": "B.Tech Computer Science",
+    "current_role": "Software Engineer",
+    "years_of_experience": 2,
+    "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "Git",
+        "Docker"
+    ],
+    "experience": [
+        "Developed REST APIs using FastAPI.",
+        "Worked with SQL databases."
+    ],
+    "projects": [
+        "Resume Maker using LangChain",
+        "Inventory Management System"
+    ],
+    "certifications": [
+        "AWS Cloud Practitioner",
+        "Python Certification"
+    ]
+}

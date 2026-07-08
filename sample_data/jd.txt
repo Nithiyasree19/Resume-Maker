@@ -1,0 +1,18 @@
+Python Backend Developer
+
+Requirements:
+- Python
+- FastAPI
+- SQL
+- Git
+- REST API Development
+
+Preferred Skills:
+- Docker
+- AWS
+
+Responsibilities:
+- Develop scalable backend applications.
+- Build and maintain REST APIs.
+- Collaborate with cross-functional teams.
+- Write clean and maintainable code.
